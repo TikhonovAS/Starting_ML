@@ -71,8 +71,8 @@ print(min_value)
 print(arr3)
 print(arr4)
 
-dot = arr3.dot(arr4)
-print(dot) # скалярное произведение 2-х векторов
+dot = arr3.dot(arr4) # скалярное произведение 2-х векторов
+print(dot)
 
 arr5 = np.array([[1, 2], [3, 4]])
 arr6 = np.array([[3, 4], [5, 6]])
